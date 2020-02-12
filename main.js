@@ -1,3 +1,11 @@
+/*The Below Program's function is to take three inputs from the user
+1) Range Initial Number 
+2) Range Last Number
+3) Difference
+
+to generate the array from start to end with Difference between the numbers and then returning the sum of the generated array. 
+*/ 
+
 function range(num1, num2, diff = 5){
   let start = num1;
   let end = num2;
